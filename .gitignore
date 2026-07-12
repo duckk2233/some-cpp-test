@@ -1,0 +1,14 @@
+# Build outputs
+bin/
+lib/
+out/
+
+# IDE / editor caches
+.cache/
+
+# Prebuilt libraries
+external/glfw/lib-mingw-w64/
+
+# OS files
+Thumbs.db
+.DS_Store

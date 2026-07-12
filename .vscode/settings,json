@@ -1,0 +1,4 @@
+{
+    "cmake.configurePreset": "Project1",
+    "cmake.buildPreset": "debug-intellisense"
+}
