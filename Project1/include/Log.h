@@ -1,7 +1,7 @@
 #ifndef LOG_H
 #define LOG_H
 
-#include "include/Switch.h"
+#include "../include/Switch.h"
 
 #ifdef DEBUG
 class Log

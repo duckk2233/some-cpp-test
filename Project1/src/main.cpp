@@ -18,9 +18,9 @@
 #include <any>//任意类型变量
 #include <fstream>//文件输入流
 #include <future>//并行处理
-#include "include/DTools.h"
-#include "include/Timer.h"
-#include "include/Log.h"
+#include "../include/DTools.h"
+#include "../include/Timer.h"
+#include "../include/Log.h"
 #include "../../external/glfw/include/GLFW/glfw3.h"
 
 class Printable
