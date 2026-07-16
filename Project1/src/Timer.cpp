@@ -4,7 +4,7 @@
 #include <algorithm>
 #include <vector>
 #include <ranges>
-#include "include/Timer.h"
+#include "../include/Timer.h"
 
 //Timer class
 Timer::Timer()

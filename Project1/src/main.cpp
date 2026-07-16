@@ -292,7 +292,7 @@ int main()
     {
         Timerm scopeTimer("scopeTimer");
 
-        std::ifstream fstream("strings.txt");
+        std::ifstream fstream("../../resources/strings.txt");
         std::string line;
         std::vector<std::string> strings;
         std::vector<std::future<void>> vecSearchChar;

@@ -6,7 +6,7 @@ aux_source_directory(${PROJECT_SOURCE_DIR}/Project1/include INCLUDE_LIST)
 target_compile_definitions(Project1-x86_64 PUBLIC $<$<CONFIG:Debug>:DEBUG>)
 
 target_sources(Project1-x86_64
-    PUBLIC
+    PRIVATE
         ${SRC_LIST}
     
     PUBLIC
